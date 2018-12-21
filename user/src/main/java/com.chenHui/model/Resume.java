@@ -1,7 +1,6 @@
 package com.chenHui.model;
 /*简历*/
 public class Resume {
-    private Integer resume_id;
     private String resume_uname;//用户姓名
     private String resume_sex;//性别
     private String resume_birthTime;//出生年月
